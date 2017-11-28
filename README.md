@@ -8,6 +8,7 @@ Experimentation with OpenCV shape detection in go
  * https://www.youtube.com/watch?v=jvHT2eER7lU
  * https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&ved=0ahUKEwjlienry9_XAhWB5yYKHaG2BI0QFghkMAk&url=https%3A%2F%2Fstacks.stanford.edu%2Ffile%2Fdruid%3Acg133bt2261%2FAhmed_Wheeler_Generating_PowerPoint_Slides_from_Hand_Drawn_Sketches.pdf&usg=AOvVaw2GoNUhYNlVF48LzDfFtBio
  * https://datahub.packtpub.com/tutorials/opencv-detecting-edges-lines-shapes/
+ * http://www.robindavid.fr/opencv-tutorial/chapter5-line-edge-and-contours-detection.html
 
 # TODO
  - [ ] Try erode post dilation for edge merging/detection
